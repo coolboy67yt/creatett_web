@@ -1,0 +1,11 @@
+{
+    "homepage": "https://creatett.vercel.app/downloads/",
+    "1.21.1": {
+      "1.0.0": "Inital release"
+    },
+    "promos": {
+      "1.21.1-latest": "1.0.0",
+      "1.21.1-recommended": "1.0.0"
+    }
+  }
+  
